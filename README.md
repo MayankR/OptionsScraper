@@ -1,4 +1,5 @@
 Use init_db.ipynb to initial a local MySQL DB.
+
 Use ScrapeYahoo.ipynb to scrape SPY options data from Yahoo Finance and load it into a table.
 
 Information loaded in DB:
